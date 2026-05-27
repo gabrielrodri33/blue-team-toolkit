@@ -1,7 +1,6 @@
 from dataclasses import dataclass, field
 from datetime import datetime
 from enum import Enum
-from typing import Optional
 
 
 class Severity(str, Enum):
@@ -75,8 +74,8 @@ class FileEvent:
     event_type: str  # modified | deleted | created
     path: str
     timestamp: datetime
-    expected_hash: Optional[str] = None
-    actual_hash: Optional[str] = None
+    expected_hash: str | None = None
+    actual_hash: str | None = None
 
 
 @dataclass
