@@ -32,6 +32,20 @@ pip install -r requirements.txt
 
 Each module has its own README with examples. Start with log-analysis/.
 
+## Documentation
+
+Full documentation is available in the [Wiki](https://github.com/gabrielrodri33/blue-team-toolkit/wiki):
+
+- [Setup & Installation](https://github.com/gabrielrodri33/blue-team-toolkit/wiki/Setup-&-Installation)
+- [Architecture & Data Flow](https://github.com/gabrielrodri33/blue-team-toolkit/wiki/Architecture)
+- [log-analysis](https://github.com/gabrielrodri33/blue-team-toolkit/wiki/log-analysis)
+- [ids](https://github.com/gabrielrodri33/blue-team-toolkit/wiki/ids)
+- [endpoint-monitor](https://github.com/gabrielrodri33/blue-team-toolkit/wiki/endpoint-monitor)
+- [threat-hunting](https://github.com/gabrielrodri33/blue-team-toolkit/wiki/threat-hunting)
+- [incident-response](https://github.com/gabrielrodri33/blue-team-toolkit/wiki/incident-response)
+- [siem](https://github.com/gabrielrodri33/blue-team-toolkit/wiki/siem)
+- [Contributing](https://github.com/gabrielrodri33/blue-team-toolkit/wiki/Contributing)
+
 ## Roadmap
 
 - [ ] log-analysis
