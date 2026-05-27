@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# IDE
+.idea/
+.vscode/
+
+# blue-team-toolkit — generated artefacts
+evidence_*.zip
+*.pcap
+*.cap
+incident_report_*
+timeline.json
+baseline.json
+connections.json
+metrics/
+~/.btt/
