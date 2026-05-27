@@ -23,7 +23,7 @@ A collection of Python scripts and tools for Blue Team operations — log analys
 ## Setup
 
 ```bash
-git clone https://github.com/gabrielrodri/blue-team-toolkit
+git clone https://github.com/gabrielrodri33/blue-team-toolkit
 cd blue-team-toolkit
 pip install -r requirements.txt
 ```
